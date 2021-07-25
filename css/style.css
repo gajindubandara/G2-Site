@@ -256,12 +256,12 @@ p {
 
 .logo {
     float: left;
-
+    padding-top: 25px;
 	position: relative;
 	z-index: 2;
     width: 300px;
     height: 125px;
-    padding-top: 10px;
+
 }
 
 .res-nav_click {
