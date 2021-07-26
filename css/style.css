@@ -701,6 +701,15 @@ background-position-y: 70px;
 
 /* Contact
 ---------------------------------*/
+.contact_img{
+    margin-top: 95px;
+
+}
+.contact_info_box{
+    margin-top: 85px;
+}
+
+
 .page_section.contact {
     padding: 90px 0 100px;
 }
@@ -850,7 +859,8 @@ background-position-y: 70px;
  
 
 .form {
-    margin: 0 66px 0 30px;
+margin-left: 40px;
+    margin-top: 80px;
 }
 
 .input-text {
