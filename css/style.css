@@ -633,11 +633,15 @@ a.contact_btn:hover {
 --------------------------- */
  
 .aboutUs-container {
+padding: 60px 0px;
 background-repeat: no-repeat;
 background-position: right;
 background-size: auto 100%;
 background-position-y: 70px;
     background: #232323 url(../img/pattern-1.png) top left repeat;
+}
+ h2{
+    color: #fff;
 }
 #about-us .read-more{
 	border: 1px solid #ED5441;
@@ -649,6 +653,7 @@ background-position-y: 70px;
 	border: 1px solid #e74c3c;
 	color: #fff;
 }
+
 .about-us-post-container{
 	background-repeat: no-repeat;
 	background-position: right;
@@ -660,6 +665,7 @@ background-position-y: 70px;
 }
 .about-us h3{
 	font-size:28px;
+    color: #fff;
 }
 .points{ 
 	margin-bottom: 10px;
@@ -1016,9 +1022,6 @@ float: right;
 width: auto; 
 text-align: center;
 }
-.aboutUs-container{
-	background-image:none;
-}
 p{
 font-size:14px;
 }
@@ -1048,6 +1051,7 @@ margin-bottom:20px;
 font-size:26px;
 line-height:22px;
 }
+
 .service_block h3 { 
 font-size: 16px;
 }
